@@ -1,0 +1,30 @@
+_id: req_468eac68da98454d98d255603cf93460
+type: Request
+parentId: fld_7dc540e6c71d42059c4d9f9ecd1a2e33
+modified: 1667603850681
+created: 1667603427174
+url: "{{ _.baseUrl }}/users"
+name: Sing In / Sing Up
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+       "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3RlcGgg4oCcWXVp4oCdIEhvZWwiLCJhdmF0YXJVcmwiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BTG01d3UxelJNSEZHTWR2TXQta0lFTW5sbzgzU0R1bUdkRThGQ1E1c2JhMmN5UT1zOTYtYyIsInN1YiI6ImNsYTFwMmtpdzAwMDB6ZGVzNnR3cHZnMnIiLCJpYXQiOjE2Njc1MTc4NDUsImV4cCI6MTY2ODEyMjY0NX0.gAJHqa-ghPRUTEjCQeG7EHhoPfhI6K4wc3yjmUkD1T8
+metaSortKey: -1667603427174
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
