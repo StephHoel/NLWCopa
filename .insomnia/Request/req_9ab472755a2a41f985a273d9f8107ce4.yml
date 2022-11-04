@@ -1,0 +1,28 @@
+_id: req_9ab472755a2a41f985a273d9f8107ce4
+type: Request
+parentId: fld_43965af92302433698e964512e6e5ed9
+modified: 1667602841324
+created: 1667602462451
+url: "{{ _.baseUrl }}/pools/cl9zz9hz10000zd60fvjp2wi3/games"
+name: List Pools
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7c5384314e53498488d8628334a5c49d
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3RlcGgg4oCcWXVp4oCdIEhvZWwiLCJhdmF0YXJVcmwiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BTG01d3UxelJNSEZHTWR2TXQta0lFTW5sbzgzU0R1bUdkRThGQ1E1c2JhMmN5UT1zOTYtYyIsInN1YiI6ImNsYTFwMmtpdzAwMDB6ZGVzNnR3cHZnMnIiLCJpYXQiOjE2Njc1Nzg3MTQsImV4cCI6MTY2ODE4MzUxNH0.6crqNK9DCNJI_7OW0kqcOUWZ9TdtB5gDRtBmiMH1PDQ
+metaSortKey: -1667602149619
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
