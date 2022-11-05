@@ -1,0 +1,21 @@
+_id: req_48b572e305ab443e8d7407909d0d8ca6
+type: Request
+parentId: fld_648c17c107ae4182b77045066857993d
+modified: 1667603377156
+created: 1667603330730
+url: "{{ _.baseUrl }}/guesses/count"
+name: Count Guesses
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667603330730
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

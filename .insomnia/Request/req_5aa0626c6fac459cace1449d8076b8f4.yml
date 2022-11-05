@@ -1,0 +1,21 @@
+_id: req_5aa0626c6fac459cace1449d8076b8f4
+type: Request
+parentId: fld_223965ffa0ba4b6596191a4c41516809
+modified: 1667603199584
+created: 1667602952284
+url: "{{ _.baseUrl }}/users/count"
+name: Count Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667602952284
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

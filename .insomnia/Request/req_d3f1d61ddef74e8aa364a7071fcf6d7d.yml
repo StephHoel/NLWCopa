@@ -1,0 +1,27 @@
+_id: req_d3f1d61ddef74e8aa364a7071fcf6d7d
+type: Request
+parentId: fld_43965af92302433698e964512e6e5ed9
+modified: 1667602448767
+created: 1667602149669
+url: "{{ _.baseUrl }}/pools/count"
+name: Count Pools
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7c5384314e53498488d8628334a5c49d
+authentication:
+  type: bearer
+metaSortKey: -1667602149669
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

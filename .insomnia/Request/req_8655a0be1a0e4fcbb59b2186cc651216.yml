@@ -1,0 +1,30 @@
+_id: req_8655a0be1a0e4fcbb59b2186cc651216
+type: Request
+parentId: fld_43965af92302433698e964512e6e5ed9
+modified: 1667602915212
+created: 1667602862154
+url: "{{ _.baseUrl }}/pools"
+name: Create Pools
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "Bolão HOEL"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7c5384314e53498488d8628334a5c49d
+authentication:
+  type: bearer
+metaSortKey: -1667602149569
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
