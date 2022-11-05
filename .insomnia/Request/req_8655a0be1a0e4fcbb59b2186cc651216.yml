@@ -1,7 +1,7 @@
 _id: req_8655a0be1a0e4fcbb59b2186cc651216
 type: Request
 parentId: fld_43965af92302433698e964512e6e5ed9
-modified: 1667602915212
+modified: 1667605246569
 created: 1667602862154
 url: "{{ _.baseUrl }}/pools"
 name: Create Pools
@@ -20,6 +20,7 @@ headers:
     id: pair_7c5384314e53498488d8628334a5c49d
 authentication:
   type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3RlcGgg4oCcWXVp4oCdIEhvZWwiLCJhdmF0YXJVcmwiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BTG01d3UxelJNSEZHTWR2TXQta0lFTW5sbzgzU0R1bUdkRThGQ1E1c2JhMmN5UT1zOTYtYyIsInN1YiI6ImNsYTFwMmtpdzAwMDB6ZGVzNnR3cHZnMnIiLCJpYXQiOjE2Njc1MTc4NDUsImV4cCI6MTY2ODEyMjY0NX0.gAJHqa-ghPRUTEjCQeG7EHhoPfhI6K4wc3yjmUkD1T8
 metaSortKey: -1667602149569
 isPrivate: false
 settingStoreCookies: true
