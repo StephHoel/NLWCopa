@@ -1,9 +1,9 @@
 _id: req_e50fad45e1d44f67895a4c2807b3fdc0
 type: Request
 parentId: fld_e773bf9f5f2b4bb384d6b199a6cf9a27
-modified: 1667603689254
+modified: 1667605332255
 created: 1667603605300
-url: "{{ _.baseUrl }}/pools/id/games"
+url: "{{ _.baseUrl }}/pools/cla353wxo0001zd7c4jbom4ex/games"
 name: List Games
 description: ""
 method: GET
