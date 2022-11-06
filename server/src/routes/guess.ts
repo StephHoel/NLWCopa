@@ -35,6 +35,7 @@ export async function guessRoutes(fastify: FastifyInstance) {
             }
          })
 
+
          if (!participant) {
             return reply.status(400).send({
                message: "You're not allowed to create a guess inside this pool."
@@ -49,6 +50,7 @@ export async function guessRoutes(fastify: FastifyInstance) {
                }
             }
          })
+
 
          if (guess) {
             return reply.status(400).send({
@@ -86,5 +88,6 @@ export async function guessRoutes(fastify: FastifyInstance) {
 
 
          return reply.status(201).send()
+
       })
 }
